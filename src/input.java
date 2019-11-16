@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class input {
-    private static Scanner sc = new Scanner(System.in);
+    private static final Scanner sc = new Scanner(System.in);
 
     static int choice() {
         int ch = sc.nextInt();//choice
