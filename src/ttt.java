@@ -1,6 +1,5 @@
 /**
  * A Tic Tac Toe Game
- *
  * @author Rohan Deb Sarkar
  * @version 1
  */

@@ -1,0 +1,12 @@
+# Default ignored files
+/workspace.xml
+/vcs.xml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/codeStyles/codeStyleConfig.xml
+/.idea/.gitignore
+/.idea/$PRODUCT_WORKSPACE_FILE$
+/modules.xml
+/misc.xml
+/codeStyles/codeStyleConfig.xml
+/$PRODUCT_WORKSPACE_FILE$
