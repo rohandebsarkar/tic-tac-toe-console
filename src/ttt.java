@@ -1,6 +1,6 @@
 /**
  * A Tic Tac Toe Game
- * @author Rohan Deb Sarkar
+ * @author Rohan Deb Sarkar <rohandebsarkar>
  * @version 1
  */
 public class ttt {
