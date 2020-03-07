@@ -18,6 +18,6 @@ class help {
     static void end_print() {
         System.out.println("Thank You For Playing!");
         System.out.println("For Feedbak :- rohandebsarkar@gmail.com");
-        System.out.println("VISIT :- \'www.programmingverse.blogspot.com\'");
+        System.out.println("VISIT :- 'www.programmingverse.blogspot.com'");
     }
 }
