@@ -1,14 +1,8 @@
+import java.util.Arrays;
+
 class array {
     static boolean equals(char[][] mod1, char[][] mod2) {
-        return (mod1[0][0] == mod2[0][0] &&
-                mod1[0][1] == mod2[0][1] &&
-                mod1[0][2] == mod2[0][2] &&
-                mod1[1][0] == mod2[1][0] &&
-                mod1[1][1] == mod2[1][1] &&
-                mod1[1][2] == mod2[1][2] &&
-                mod1[2][0] == mod2[2][0] &&
-                mod1[2][1] == mod2[2][1] &&
-                mod1[2][2] == mod2[2][2]);
+        return (Arrays.equals(mod1, mod2));
     }
 
     static char[][] copyarray(char[][] mod) {
