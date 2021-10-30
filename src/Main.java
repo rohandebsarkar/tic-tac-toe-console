@@ -1,7 +1,7 @@
 /**
  * A Tic Tac Toe Game
  * @author Rohan Deb Sarkar <rohandebsarkar>
- * @version 1
+ * @version v1.0
  */
 public class Main {
     public static void main(String[] args) {
