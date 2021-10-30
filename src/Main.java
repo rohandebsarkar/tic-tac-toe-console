@@ -3,7 +3,7 @@
  * @author Rohan Deb Sarkar <rohandebsarkar>
  * @version 1
  */
-public class ttt {
+public class Main {
     public static void main(String[] args) {
         char[][] mod = {{'1', '2', '3'}, {'4', '5', '6'}, {'7', '8', '9'}};
         int ch = help.print();//choice
